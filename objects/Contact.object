@@ -31,7 +31,7 @@
             <filterItems>
                 <field>Account.Parish_ID__c</field>
                 <operation>notEqual</operation>
-                <value></value>
+                <value/>
             </filterItems>
             <isOptional>false</isOptional>
         </lookupFilter>
